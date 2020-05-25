@@ -13,6 +13,7 @@ or
 
 ```shell
 wget --no-check-certificate -q https://github.com/Aniverse/TrCtrlProToc0l/raw/master/A
+wget --no-check-certificate -q https://github.com/cnpilot/TrCtrlProToc0l/raw/master/A
 bash A
 ```
 
